@@ -1,0 +1,7 @@
+build*/
+cmake-build*/
+external/
+.vs
+out
+.vscode
+
