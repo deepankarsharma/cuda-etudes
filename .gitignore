@@ -5,3 +5,4 @@ external/
 out
 .vscode
 
+curdir.h

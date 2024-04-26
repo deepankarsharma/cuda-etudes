@@ -1,0 +1,4 @@
+#include <filesystem>
+inline std::filesystem::path current_dir() {
+   return std::filesystem::path("@SRC_DIR@");  
+} 
