@@ -3,6 +3,4 @@ cmake-build*/
 external/
 .vs
 out
-.vscode
-
 curdir.h
